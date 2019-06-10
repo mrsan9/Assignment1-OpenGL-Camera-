@@ -1,12 +1,22 @@
-﻿  Source.cpp
-e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(232): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(261): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(543): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(573): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(574): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(578): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(579): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(580): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(581): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(590): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-  CameraAssignment1.vcxproj -> E:\My Projects\OpenGL\fresh Start\Assignment\CameraAssignment1\Debug\CameraAssignment1.exe
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  main.cpp
+  Source.cpp
+e:\my projects\opengl\fresh start\assignment\github\assignment1-opengl-camera-\cameraassignment1\source.cpp(232): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\github\assignment1-opengl-camera-\cameraassignment1\source.cpp(261): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\github\assignment1-opengl-camera-\cameraassignment1\source.cpp(543): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\github\assignment1-opengl-camera-\cameraassignment1\source.cpp(573): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\github\assignment1-opengl-camera-\cameraassignment1\source.cpp(574): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\github\assignment1-opengl-camera-\cameraassignment1\source.cpp(578): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\github\assignment1-opengl-camera-\cameraassignment1\source.cpp(579): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\github\assignment1-opengl-camera-\cameraassignment1\source.cpp(580): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\github\assignment1-opengl-camera-\cameraassignment1\source.cpp(581): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\github\assignment1-opengl-camera-\cameraassignment1\source.cpp(590): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'E:\My Projects\OpenGL\fresh Start\Assignment\GitHub\Assignment1-OpenGL-Camera-\Debug\vc120.pdb'; linking object as if no debug info
+  CameraAssignment1.vcxproj -> E:\My Projects\OpenGL\fresh Start\Assignment\GitHub\Assignment1-OpenGL-Camera-\Debug\CameraAssignment1.exe
