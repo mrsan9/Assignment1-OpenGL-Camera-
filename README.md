@@ -18,9 +18,9 @@ How to use:
 
 ## Assignment 1
 
-- Demo1 (alt text):
+- Demo1 (png):
  
-  ![](https://imgur.com/sobaP9A)
+  ![](https://i.imgur.com/sobaP9A.png)
   
   - Demo2 (gif):
  
