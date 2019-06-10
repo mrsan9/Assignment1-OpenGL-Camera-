@@ -1,0 +1,12 @@
+﻿  Source.cpp
+e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(232): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(261): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(543): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(573): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(574): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(578): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(579): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(580): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(581): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\my projects\opengl\fresh start\assignment\cameraassignment1\cameraassignment1\source.cpp(590): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CameraAssignment1.vcxproj -> E:\My Projects\OpenGL\fresh Start\Assignment\CameraAssignment1\Debug\CameraAssignment1.exe
