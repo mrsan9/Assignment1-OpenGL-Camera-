@@ -21,7 +21,3 @@ How to use:
 - Demo1 (png):
  
   ![](https://i.imgur.com/sobaP9A.png)
-  
-  //- Demo2 (png):
- 
- //![](https://i.imgur.com/LH3Kbh6.gif)
